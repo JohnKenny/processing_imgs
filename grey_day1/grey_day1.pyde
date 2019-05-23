@@ -1,0 +1,8 @@
+size(960, 240)
+background(0)
+fill(205)
+ellipse(264, 164, 400, 400)
+fill(150)
+ellipse(456, -32, 400, 400)
+fill(49)
+ellipse(532, 236, 400, 400)
